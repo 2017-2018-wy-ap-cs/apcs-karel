@@ -1,5 +1,4 @@
 #! /bin/bash
 git config core.editor nano
 git pull upstream master
-git pull
 
