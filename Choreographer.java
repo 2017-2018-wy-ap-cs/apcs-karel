@@ -22,7 +22,7 @@ public class Choreographer extends UrRobot {
     c.move();
   }
   
-  
+  // This class is incomplete you need to finish it.
   
   public static void main (String[] args)
   {
