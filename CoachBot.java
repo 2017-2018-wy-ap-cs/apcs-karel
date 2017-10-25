@@ -13,7 +13,8 @@ public class CoachBot {
   public void leadPractice()
   {
     myTrainee.doWorkout();
-    sleep(10);
+    turnLeft();turnLeft();turnLeft();turnLeft();
+    turnLeft();turnLeft();turnLeft();turnLeft();
     myTrainee.doWorkout();
   }
   
