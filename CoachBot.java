@@ -1,12 +1,13 @@
 import kareltherobot.*;
 import java.awt.Color;
 
-public class CoachBot {
+public class CoachBot extends UrRobot {
   
   private Workout myTrainee;
   
   public CoachBot(Workout trainee)
   {
+    super(1,1,East,0);
     myTrainee = trainee;
   }
   
