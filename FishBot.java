@@ -18,7 +18,7 @@ public class FishBot extends StrategyLayer {
     World.setVisible(true);
     World.setDelay(75);
     
-    Strategy flee = new SwimAwayStrategy();
+    Strategy flee = new SwimAwayStrategy(2);
     FishBot dory = new FishBot(4,1,East,10,flee);
     
     dory.doStrat();
