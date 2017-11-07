@@ -3,33 +3,45 @@
   <project autorefresh="false" root="" work="">
     <createjar file=""/>
     <source>
-      <file active="true" name="StrategyLayer.java" package="" timestamp="06-Nov-2017 09:41:11">
-        <select from="0" to="0"/>
-        <scroll column="943" row="0"/>
+      <file active="true" name="SwimAwayStrategy.java" package="" timestamp="07-Nov-2017 09:47:06">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
       </file>
-      <file name="Skeleton.java" package="" timestamp="25-Oct-2017 11:38:13">
-        <select from="0" to="0"/>
-        <scroll column="943" row="0"/>
+      <file name="StrategyLayer.java" package="" timestamp="06-Nov-2017 21:53:32">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
       </file>
-      <file name="README.md" package="" timestamp="18-Oct-2017 12:03:17">
-        <select from="0" to="0"/>
-        <scroll column="943" row="0"/>
+      <file name="Skeleton.java" package="" timestamp="16-Oct-2017 10:41:23">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
       </file>
-      <file name="KarelStarter.java" package="" timestamp="16-Oct-2017 09:42:16">
-        <select from="0" to="0"/>
-        <scroll column="943" row="0"/>
+      <file name="README.md" package="" timestamp="16-Oct-2017 09:21:10">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
       </file>
-      <file name="MakeWorld.java" package="" timestamp="16-Oct-2017 10:26:53">
-        <select from="0" to="0"/>
-        <scroll column="943" row="0"/>
+      <file name="KarelStarter.java" package="" timestamp="16-Oct-2017 10:41:18">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
       </file>
-      <file name="Strategy.java" package="" timestamp="06-Nov-2017 11:42:09">
-        <select from="0" to="0"/>
-        <scroll column="943" row="0"/>
+      <file name="MakeWorld.java" package="" timestamp="16-Oct-2017 10:41:19">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
       </file>
-      <file name="NoStrategy.java" package="" timestamp="06-Nov-2017 11:43:00">
-        <select from="0" to="0"/>
-        <scroll column="943" row="0"/>
+      <file name="Strategy.java" package="" timestamp="06-Nov-2017 21:53:32">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
+      </file>
+      <file name="NoStrategy.java" package="" timestamp="06-Nov-2017 21:53:32">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
+      </file>
+      <file name="BirdBot.java" package="" timestamp="07-Nov-2017 09:07:28">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
+      </file>
+      <file name="FishBot.java" package="" timestamp="07-Nov-2017 09:46:58">
+        <select from="275" to="275"/>
+        <scroll column="148" row="0"/>
       </file>
     </source>
     <included/>
