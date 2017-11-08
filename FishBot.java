@@ -4,7 +4,8 @@ import java.awt.Color;
 public class FishBot extends StrategyLayer {
   private Strategy sMain,sAlt;
   
-  public FishBot(int r, int c, Direction d, int beep, Strategy strat, Strategy altStrat)
+  public FishBot(int r, int c, Direction d, int beep, 
+                 Strategy strat, Strategy altStrat)
   {
     super(r,c,d,beep,strat);
     sMain = strat;
