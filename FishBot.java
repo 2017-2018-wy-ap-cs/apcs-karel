@@ -14,7 +14,7 @@ public class FishBot extends StrategyLayer {
   
   public void swapStrategy()
   {
-    setStrategy(altStrat);
+    setStrategy(sAlt);
     
     Strategy help = sMain;
     sMain = sAlt;
@@ -32,7 +32,7 @@ public class FishBot extends StrategyLayer {
     doStrat();
     swapStrategy();
   }
-  
+ /* 
   public static void main1(String[] args)
   {
     World.setVisible(true);
@@ -44,7 +44,7 @@ public class FishBot extends StrategyLayer {
     dory.doStrat();
     dory.turnOff();
   }
-  
+  */
   
   public static void main(String[] args)
   {
@@ -52,7 +52,8 @@ public class FishBot extends StrategyLayer {
     World.setDelay(75);
     
     Strategy flee = new Dart3();
-    FishBot dory = new FishBot(4,1,East,10,flee);
+    Strategy dodge = new DartTurn();
+    FishBot dory = new FishBot(4,1,East,10,flee,dodge);
     
     dory.startle();
     dory.startle();

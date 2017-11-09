@@ -3,73 +3,73 @@
   <project autorefresh="false" root="" work="">
     <createjar file=""/>
     <source>
-      <file active="true" name="FishBot.java" package="" timestamp="08-Nov-2017 12:01:08">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+      <file active="true" name="FishBot.java" package="" timestamp="09-Nov-2017 09:47:19">
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="SideStrat.java" package="" timestamp="08-Nov-2017 11:07:38">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="SwimAwayStrategy.java" package="" timestamp="07-Nov-2017 09:47:06">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="StrategyLayer.java" package="" timestamp="06-Nov-2017 21:53:32">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="Skeleton.java" package="" timestamp="16-Oct-2017 10:41:23">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="README.md" package="" timestamp="16-Oct-2017 09:21:10">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="KarelStarter.java" package="" timestamp="16-Oct-2017 10:41:18">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="MakeWorld.java" package="" timestamp="16-Oct-2017 10:41:19">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="Strategy.java" package="" timestamp="06-Nov-2017 21:53:32">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="NoStrategy.java" package="" timestamp="06-Nov-2017 21:53:32">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="BirdBot.java" package="" timestamp="07-Nov-2017 09:07:28">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="CornerStratV2.java" package="" timestamp="08-Nov-2017 11:04:59">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
-      </file>
-      <file name="SideStratV2.java" package="" timestamp="08-Nov-2017 11:08:28">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="CornerStrat.java" package="" timestamp="08-Nov-2017 11:07:55">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
-      </file>
-      <file name="PrettyBoxBot.java" package="" timestamp="08-Nov-2017 11:09:16">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="Dart3.java" package="" timestamp="08-Nov-2017 11:44:06">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
       <file name="DartTurn.java" package="" timestamp="08-Nov-2017 11:44:29">
-        <select from="199" to="199"/>
-        <scroll column="42" row="0"/>
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
+      </file>
+      <file name="PrettyBoxBot.java" package="" timestamp="09-Nov-2017 09:13:50">
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
+      </file>
+      <file name="SideStratV2.java" package="" timestamp="09-Nov-2017 09:21:32">
+        <select from="1050" to="1050"/>
+        <scroll column="1638" row="0"/>
       </file>
     </source>
     <included/>

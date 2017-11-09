@@ -5,7 +5,8 @@ public class PrettyBoxBot extends StrategyLayer {
   private Strategy s1 = null;
   private Strategy s2 = null;
   
-  public PrettyBoxBot(int r, int c, Direction d, int beep, Strategy ss1, Strategy ss2)
+  public PrettyBoxBot(int r, int c, Direction d, int beep, 
+                      Strategy ss1, Strategy ss2)
   {
     super(r,c,d,beep,ss1);
     s1=ss1;
@@ -38,9 +39,9 @@ public class PrettyBoxBot extends StrategyLayer {
   
   public void swapStrat()
   {
-    Strategy s = s1;
+    Strategy tempHelper = s1;
     s1 = s2;
-    s2 = s;
+    s2 = tempHelper;
     setStrategy(s1);
     System.err.println("Current strategy: "+s1);
   }

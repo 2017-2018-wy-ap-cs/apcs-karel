@@ -7,6 +7,7 @@ public class SideStratV2 extends SideStrat
     super(n);
   }
   
+  @Override
   public void doIt(UrRobot r)
   {
     PrettyBoxBot rpretty = (PrettyBoxBot) r;
