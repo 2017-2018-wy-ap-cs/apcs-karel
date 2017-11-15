@@ -1,7 +1,7 @@
 import kareltherobot.*;
 import java.util.*;
 
-public class QBludger extends Robot implements Quidditch
+public class QBludger extends QuidditchBot
 {
   
   public void doBludge() {
@@ -12,18 +12,19 @@ public class QBludger extends Robot implements Quidditch
       Strategy knockback = new QKnockBackStrat();
       
       // 4.7
-      Enumeration<UrRobot> nbr = neighbors();
+      Enumeration<QuidditchBot> nbr = neighbors();
       
       while (nbr.hasMoreElements())
       {
-        UrRobot oneNeighbor = nbr.nextElement();
+        QuidditchBot oneNeighbor = nbr.nextElement();
         
-        knockback.doIt(oneNeighbor);
+        if (oneNeighbor.isPlayer()) {
+          knockback.doIt(oneNeighbor);
+        }
       }
     }
   }
   
-  public boolean isBludger() { return true; }
   public boolean isPlayer() { return false; }
   
   public QBludger(int r, int c, Direction d, int b)
