@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="HackBot.java" package="" timestamp="21-Nov-2017 10:18:24">
+        <select from="380" to="380"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Strategy.java" package="" timestamp="06-Nov-2017 21:53:32">
+        <select from="380" to="380"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="StrategyLayer.java" package="" timestamp="06-Nov-2017 21:53:32">
+        <select from="380" to="380"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MakeWorld.java" package="" timestamp="16-Oct-2017 10:41:19">
+        <select from="380" to="380"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="lib/KarelHRobot.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
